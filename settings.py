@@ -9,10 +9,10 @@ RED = (255, 0, 0)
 YELLOW = (255, 255, 0)
 
 # game settings
-WIDTH = 1200
+WIDTH = 500
 HEIGHT = 700
 FPS = 60
-title = "Template"
+title = "Simple Calculator"
 BGCOLOUR = DARKGREY
 
 TILESIZE = 80
